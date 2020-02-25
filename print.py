@@ -1,0 +1,1 @@
+print("ALPINE DOCKER")
